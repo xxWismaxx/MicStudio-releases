@@ -6,9 +6,12 @@
 
 [English](#english) · [Español](#español)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows%2010%20%2F%2011-2f6feb?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/xxWismaxx/MicStudio-releases/releases/latest)
-![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20·%20next%20release-555?style=for-the-badge&logo=apple&logoColor=white)
-![Price](https://img.shields.io/badge/price-free-2ea043?style=for-the-badge)
+<a href="https://github.com/xxWismaxx/MicStudio-releases/releases/download/v0.2.4/MicStudioSetup-0.2.4.exe"><img src="images/download-windows.svg" alt="Download for Windows" height="64"></a>
+&nbsp;
+<a href="https://github.com/xxWismaxx/MicStudio-releases/releases/download/v0.2.4/MicStudio-0.2.4.dmg"><img src="images/download-macos.svg" alt="Download for macOS" height="64"></a>
+
+<sub>Version 0.2.4 · Windows 10 (1903+) / 11, 64-bit · macOS 14 Sonoma+ on Apple Silicon · Free ·
+<a href="https://github.com/xxWismaxx/MicStudio-releases/releases">All releases</a></sub>
 
 <img src="images/main.png" alt="Mic Studio main window: a profile with the live meters and the cleaning stages" width="900">
 
@@ -18,7 +21,7 @@
 
 ## English
 
-Mic Studio cleans your microphone in real time. A neural network keeps your voice and removes the rest — keyboard,
+Mic Studio cleans your microphone in real time, on Windows and macOS. A neural network keeps your voice and removes the rest — keyboard,
 clicks, knocks, claps, fans, hum, other people talking in the room — and Discord, OBS, Zoom, Teams or any other app
 hears the result as a microphone called **"Microphone (Mic Studio)"**.
 
@@ -81,13 +84,12 @@ voice loses under 1 dB.
 
 Needs Windows 10 (version 1903 or later) or Windows 11, 64-bit.
 
-### 🍎 macOS
+### 🍎 Install on macOS
 
-The Mac version (Apple Silicon, macOS 14 Sonoma or later) arrives with the next release as `MicStudio-<version>.dmg`,
-next to the Windows installer:
+Needs a Mac with Apple Silicon and macOS 14 Sonoma or later.
 
-1. Open the `.dmg` and drag **Mic Studio** onto **Applications**.
-2. Open it. The app is not notarized by Apple, so the first time go to **System Settings › Privacy & Security** and
+1. Download `MicStudio-<version>.dmg` from the [latest release](https://github.com/xxWismaxx/MicStudio-releases/releases/latest), open it and drag **Mic Studio** onto **Applications**.
+2. Open Mic Studio. The app is not notarized by Apple, so the first time go to **System Settings › Privacy & Security** and
    click **Open Anyway**.
 3. Allow the microphone, then accept the virtual microphone and type your Mac's password once.
 
@@ -125,7 +127,7 @@ reverse engineering it needs the author's written consent.** Share the link to t
 
 ## Español
 
-Mic Studio limpia tu micrófono en tiempo real. Una red neuronal conserva tu voz y quita el resto — teclado, clics,
+Mic Studio limpia tu micrófono en tiempo real, en Windows y macOS. Una red neuronal conserva tu voz y quita el resto — teclado, clics,
 golpes, aplausos, ventiladores, zumbidos, otras personas hablando en la sala — y Discord, OBS, Zoom, Teams o cualquier
 otra aplicación escucha el resultado como un micrófono llamado **"Microphone (Mic Studio)"**.
 
@@ -167,13 +169,12 @@ pierde menos de 1 dB.
 
 Necesita Windows 10 (versión 1903 o posterior) o Windows 11, de 64 bits.
 
-### 🍎 macOS
+### 🍎 Instalar en macOS
 
-La versión para Mac (Apple Silicon, macOS 14 Sonoma o posterior) llega con la próxima versión como
-`MicStudio-<versión>.dmg`, junto al instalador de Windows:
+Necesita un Mac con Apple Silicon y macOS 14 Sonoma o posterior.
 
-1. Abre el `.dmg` y arrastra **Mic Studio** a **Aplicaciones**.
-2. Ábrelo. La app no está notarizada por Apple, así que la primera vez ve a **Ajustes del Sistema › Privacidad y
+1. Descarga `MicStudio-<versión>.dmg` de la [última versión](https://github.com/xxWismaxx/MicStudio-releases/releases/latest), ábrelo y arrastra **Mic Studio** a **Aplicaciones**.
+2. Abre Mic Studio. La app no está notarizada por Apple, así que la primera vez ve a **Ajustes del Sistema › Privacidad y
    seguridad** y pulsa **Abrir igualmente**.
 3. Permite el micrófono, acepta el micrófono virtual y escribe la contraseña de tu Mac una vez.
 
