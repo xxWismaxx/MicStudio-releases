@@ -114,6 +114,13 @@ Mic Studio is free. If it helps you, a coffee means more time to keep improving 
 [Ko-fi](https://ko-fi.com/juancarlosvillarivera) ·
 [PayPal](https://www.paypal.com/donate/?business=jcarlos.villa.rivera%40gmail.com).
 
+### 📄 License
+
+Mic Studio is free to use, also for paid work (streams, recordings, meetings), but it is not open source.
+**Selling it, redistributing it (re-uploading it, bundling it with other software, even for free), modifying it or
+reverse engineering it needs the author's written consent.** Share the link to this page instead. Full terms:
+[LICENSE](LICENSE).
+
 ---
 
 ## Español
@@ -194,6 +201,13 @@ Mic Studio es gratuito. Si te resulta útil, un café significa más tiempo para
 [Ko-fi](https://ko-fi.com/juancarlosvillarivera) ·
 [PayPal](https://www.paypal.com/donate/?business=jcarlos.villa.rivera%40gmail.com).
 
+### 📄 Licencia
+
+Mic Studio es de uso gratuito, también para trabajos pagos (streams, grabaciones, reuniones), pero no es de código
+abierto. **Venderlo, redistribuirlo (resubirlo o incluirlo en otro software, aunque sea gratis), modificarlo o
+aplicarle ingeniería inversa requiere el consentimiento por escrito del autor.** En su lugar, comparte el enlace a
+esta página. Condiciones completas: [LICENSE](LICENSE).
+
 ---
 
 <div align="center"><sub>
@@ -201,7 +215,7 @@ Mic Studio es gratuito. Si te resulta útil, un café significa más tiempo para
 This repository holds only the releases of Mic Studio; the source code is not public. ·
 Este repositorio solo contiene las versiones publicadas de Mic Studio; el código fuente no es público.
 
-© 2026 Juan Carlos Villa. All rights reserved. Third-party components and their licenses:
+© 2026 Juan Carlos Villa. All rights reserved. [LICENSE](LICENSE) · Third-party components and their licenses:
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 </sub></div>

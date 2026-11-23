@@ -1,0 +1,113 @@
+Mic Studio License
+
+Copyright (c) 2026 Juan Carlos Villa. All rights reserved.
+
+Mic Studio (the Windows and macOS apps, their installers, disk images, virtual microphone driver, user interface,
+images and documentation; together, "the Software") is free to use, but it is not open source and it is not
+free to sell or to redistribute.
+
+1. What you may do
+
+   You may download the Software from its official page
+   (https://github.com/xxWismaxx/MicStudio-releases), install it on computers you own or control, and use it for
+   personal or professional purposes, including streams, recordings, calls and meetings for which you are paid.
+   You may tell others about it and share the link to the official page.
+
+2. What you may not do without the author's prior written consent
+
+   a. Sell, rent, lease, lend or sublicense the Software, or charge any fee for it or for access to it.
+   b. Redistribute the Software or any part of it, for a fee or for free: no re-uploading, mirroring or hosting it
+      elsewhere, and no including it in other software, bundles, installers, collections, stores or devices.
+   c. Modify, translate, adapt, or create derivative works of the Software.
+   d. Reverse engineer, decompile or disassemble the Software, except to the extent that applicable law expressly
+      allows it despite this restriction.
+   e. Remove or change any copyright notice, license text or attribution in the Software.
+   f. Use the name "Mic Studio", its logo or the author's name to suggest that the author endorses you or your
+      product.
+
+   To ask for consent, open an issue at https://github.com/xxWismaxx/MicStudio-releases/issues or write to
+   jcarlos.villa.rivera@gmail.com. Consent counts only when it is given in writing by the author.
+
+3. Third-party components
+
+   The Software includes components made by others (listed in THIRD_PARTY_NOTICES.md), each under its own license.
+   Those licenses apply to those components, and nothing in this license limits the rights they give you.
+
+4. Ownership
+
+   The Software is licensed, not sold. The author keeps all rights, title and interest in it, including all
+   copyrights. Any right not expressly granted here is reserved.
+
+5. End of the license
+
+   This license ends automatically if you break any of its terms. When it ends you must stop using the Software and
+   delete every copy you have.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability
+
+   TO THE EXTENT ALLOWED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Licencia de Mic Studio (traducción al español, solo informativa; si hay diferencias, vale el texto en inglés)
+
+Copyright (c) 2026 Juan Carlos Villa. Todos los derechos reservados.
+
+Mic Studio (las aplicaciones de Windows y macOS, sus instaladores, imágenes de disco, controlador del micrófono
+virtual, interfaz, imágenes y documentación; en conjunto, "el Software") es de uso gratuito, pero no es de código
+abierto y no se puede vender ni redistribuir libremente.
+
+1. Lo que puedes hacer
+
+   Puedes descargar el Software desde su página oficial (https://github.com/xxWismaxx/MicStudio-releases),
+   instalarlo en computadoras que te pertenezcan o que controles, y usarlo con fines personales o profesionales,
+   incluidos streams, grabaciones, llamadas y reuniones por las que te paguen. Puedes recomendarlo y compartir el
+   enlace a la página oficial.
+
+2. Lo que no puedes hacer sin el consentimiento previo y por escrito del autor
+
+   a. Vender, alquilar, arrendar, prestar o sublicenciar el Software, ni cobrar por él o por el acceso a él.
+   b. Redistribuir el Software o cualquier parte de él, cobrando o gratis: no resubirlo, replicarlo ni alojarlo en
+      otro sitio, ni incluirlo en otro software, paquetes, instaladores, colecciones, tiendas o dispositivos.
+   c. Modificar, traducir, adaptar o crear obras derivadas del Software.
+   d. Aplicar ingeniería inversa, descompilar o desensamblar el Software, salvo en la medida en que la ley aplicable
+      lo permita expresamente a pesar de esta restricción.
+   e. Quitar o cambiar avisos de copyright, el texto de la licencia o las atribuciones del Software.
+   f. Usar el nombre "Mic Studio", su logotipo o el nombre del autor para dar a entender que el autor te respalda a
+      ti o a tu producto.
+
+   Para pedir consentimiento, abre un issue en https://github.com/xxWismaxx/MicStudio-releases/issues o escribe a
+   jcarlos.villa.rivera@gmail.com. El consentimiento solo vale si el autor lo da por escrito.
+
+3. Componentes de terceros
+
+   El Software incluye componentes hechos por otros (listados en THIRD_PARTY_NOTICES.md), cada uno con su propia
+   licencia. Esas licencias se aplican a esos componentes, y nada en esta licencia limita los derechos que te dan.
+
+4. Titularidad
+
+   El Software se licencia, no se vende. El autor conserva todos los derechos sobre él, incluidos los derechos de
+   autor. Todo derecho que no se conceda expresamente aquí queda reservado.
+
+5. Fin de la licencia
+
+   Esta licencia termina automáticamente si incumples cualquiera de sus condiciones. Cuando termina debes dejar de
+   usar el Software y borrar todas las copias que tengas.
+
+6. Sin garantía
+
+   EL SOFTWARE SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS
+   GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN.
+
+7. Limitación de responsabilidad
+
+   EN LA MEDIDA EN QUE LA LEY LO PERMITA, EL AUTOR NO SERÁ RESPONSABLE EN NINGÚN CASO DE RECLAMACIONES, DAÑOS U
+   OTRAS RESPONSABILIDADES, YA SEA POR CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJAN DEL SOFTWARE, DE SU USO O DE
+   OTRAS OPERACIONES CON ÉL, O QUE ESTÉN RELACIONADAS CON ELLOS.
